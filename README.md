@@ -16,3 +16,4 @@ Gimme a test! (TEST)
 
 - Initialize a local git repository, then add it to GitHub
 Go rockets
+yes
